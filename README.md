@@ -2,6 +2,8 @@
 
 [Методические указания.pdf](https://github.com/eeeeagle/OS_1/files/9551126/default.pdf)
 
+`CRACK117m.exe` программа для варианта №12
+
 `CRACK117m/1.exe` результаты метода взлома №1
 
 `CRACK117m/2.exe` результаты метода взлома №2
